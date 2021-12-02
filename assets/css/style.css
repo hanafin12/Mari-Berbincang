@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   letter-spacing: 3px;
 }
 #header .logo h1 a, #header .logo h1 a:hover {
-  color: black;
+  color: gold;
   text-decoration: none;
   margin-left: 70%;
   position: fixed;
